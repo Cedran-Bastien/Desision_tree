@@ -1,0 +1,13 @@
+id;nom;nageoires;couleur;taille;mammifere;nager
+1;requin;oui;gris;grand;non;oui
+2;orque;oui;noir;grand;oui;oui
+3;tigre;non;jaune;moyen;oui;non
+4;chien;non;noir;moyen;oui;non
+5;chat;non;noir;petit;oui;non
+6;souris;non;gris;petit;oui;non
+7;dauphin;oui;gris;moyen;oui;oui
+8;sardine;oui;gris;petit;non;oui
+9;hippocampe;non;jaune;petit;non;oui
+10;nemo;oui;rouge;petit;non;oui
+11;coccinelle;non;rouge;petit;non;non
+12;elephant;non;gris;grand;oui;non

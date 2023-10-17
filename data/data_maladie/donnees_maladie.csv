@@ -1,0 +1,10 @@
+id;fievre;douleur;toux;maladie
+1;oui;abdomen;non;appendicite
+2;non;abdomen;oui;appendicite
+3;oui;gorge;non;rhume
+4;oui;gorge;oui;rhume
+5;non;gorge;oui;mal de gorge
+6;oui;non;non;aucune
+7;oui;non;oui;rhume
+8;non;non;oui;refroidissement
+9;non;non;non;aucune
